@@ -1,3 +1,4 @@
+import React from "react";
 import Sidebar from "./components/Sidebar";
 import DashboardContent from "./components/DashboardContent";
 
