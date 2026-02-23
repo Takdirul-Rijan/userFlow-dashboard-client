@@ -7,8 +7,7 @@ Designed with clean architecture, reusable components, and scalable structure.
 
 ## 🌐 Live Preview
 
-> (Add your live site link here after deployment)
-
+🔗 **[View Live Site](https://famous-sprite-142f0a.netlify.app/)**
 ---
 
 ## 📌 Features
@@ -43,4 +42,4 @@ Designed with clean architecture, reusable components, and scalable structure.
 
 ---
 
-## 📂 Project Structure
+
