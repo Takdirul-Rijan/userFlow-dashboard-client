@@ -1,16 +1,46 @@
-# React + Vite
+# 🚀 UserFlow Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive dashboard interface built with **React 19**, **Vite**, **Tailwind CSS 4**, and **DaisyUI**.  
+Designed with clean architecture, reusable components, and scalable structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Preview
 
-## React Compiler
+> (Add your live site link here after deployment)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Responsive layout (Mobile, Tablet, Desktop)
+- ✅ Modern UI with Tailwind CSS & DaisyUI
+- ✅ React Router v7 integration
+- ✅ Context API state management
+- ✅ User Management with API fetching
+- ✅ Search & Delete functionality
+- ✅ Loading spinner using React Spinners
+- ✅ SweetAlert2 integration
+- ✅ About & Contact pages
+- ✅ Google Map integration (Mirpur-1, Dhaka-1216, Bangladesh)
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| React 19 | Frontend library |
+| Vite | Fast development build tool |
+| React Router v7 | Client-side routing |
+| Tailwind CSS 4 | Utility-first CSS framework |
+| DaisyUI | Tailwind component library |
+| Axios | API requests |
+| Context API | Global state management |
+| SweetAlert2 | Alert popups |
+| React Icons | Icons |
+| React Spinners | Loading indicators |
+
+---
+
+## 📂 Project Structure
